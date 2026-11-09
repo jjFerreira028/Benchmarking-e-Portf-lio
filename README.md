@@ -28,15 +28,3 @@ O que mais me chamou atenção foi que esses perfis não seguem uma fórmula ún
 ## Reflexão da Etapa 1
 
 Ao olhar com mais atenção para dez perfis que já sigo, percebi que cada pessoa apresenta seu trabalho de um jeito diferente. Alguns deixam o README quase vazio e usam os projetos fixados para mostrar o foco. Outros contam um pouco mais sobre o que estão construindo e incluem links para facilitar a navegação. Nos perfis ligados a IA, achei interessante como muitos projetos partem de uma necessidade bem concreta, como organizar o contexto de um agente ou conectar modelos a ferramentas. Também vi que nomes claros e descrições curtas ajudam a entender os repositórios antes de abrir o código. Isso me fez notar que meu próprio perfil já tem uma apresentação, mas ainda posso deixá-la mais completa. As seções de tecnologias precisam ser preenchidas com aquilo que realmente estudo ou uso. Quero também revisar os READMEs dos projetos para explicar melhor o objetivo, as tecnologias e como executar cada um. O projeto acadêmico do semestre deve aparecer entre os primeiros destaques e ser fácil de testar. Não quero colocar elementos visuais só por enfeite; prefiro usar badges ou imagens quando ajudarem a leitura. A ideia é que uma pessoa que ainda não me conhece consiga entender rapidamente o que estou aprendendo e encontrar exemplos do meu trabalho.
-
-## Revisão do meu perfil
-
-Na consulta pública, encontrei o README especial do perfil com apresentação, formação, interesses, projetos e contatos. Também aparecem dois repositórios fixados: `Engenharia-de-prompt` e `desafiocolaborativo-git`.
-
-Antes de entregar, ainda preciso:
-
-- preencher as seções vazias de linguagens, banco de dados e ferramentas;
-- remover do README as referências quebradas no formato `[cite: ...]`;
-- conferir qual projeto é o trabalho prático do semestre atual e garantir que esteja atualizado e fixado;
-- revisar se os READMEs dos projetos explicam objetivo, tecnologias, execução e demonstração;
-- conferir se cada repositório tem licença e `.gitignore` adequados.
