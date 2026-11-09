@@ -3,7 +3,6 @@
 **Estudante:** João Victor Mendes Ferreira  
 **Perfil:** [@jjFerreira028](https://github.com/jjFerreira028)  
 **Área de interesse:** Inteligência Artificial  
-**Data da consulta:** 9 de novembro de 2026
 
 ## Perfis que já sigo
 
@@ -56,5 +55,3 @@ Todos os dez perfis abaixo constavam na lista pública de pessoas que sigo quand
 8. [@Frankie-Xu](https://github.com/Frankie-Xu)
 9. [@lidge-jun](https://github.com/lidge-jun)
 10. [@morluto](https://github.com/morluto)
-
-*Análise baseada nas informações públicas dos perfis e repositórios consultados em 9 de novembro de 2026.*
